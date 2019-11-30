@@ -1,0 +1,3 @@
+insert into menu values (1,'Chicken Chap',90,36,6),(2,'Beef Chap',110,36,6),(3,'Boti Kabab',70,36,6),(4,'Gurda Kaba',80,36,6),(5,'Porota',5,36,1),(6,'Plain Rice',20,32,1),(7,'Rui',140,32,1),
+(8,'Ilish',160,32,1),(9,'Mutton Khichuri',120,32,1),(10,'Khichuri',30,32,1),(11,'Chicken Khichuri',120,32,1),(12,'Mutton Leg Roast',180,32,6),(13,'Prawn Malaicurry',350,32,1),
+(14,'Lacchi',30,32,2),(15,'Faluda',50,32,2),

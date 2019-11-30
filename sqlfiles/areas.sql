@@ -1,0 +1,1 @@
+insert into areas values(1,'Shantinagar'),(2,'Farmgate'),(3,'Mirpur'),(4,'Banani'),(5,'Uttara'),(6,'Khilgaon'),(7,'Dhanmondi'),(8,'Lalbagh');

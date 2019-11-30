@@ -1,0 +1,3 @@
+insert into area_manager values('Oliver','oliver@gmail.com','1234',0189420409,1),('George','george@gmail.com','1234',01478542,2),('Harry','harry@gmail.com','1234',0125869,3),
+('Jack','jack@gmail.com','1234',012896,4),('Noah','noah@gmail.com','1234',0125867478,5),('Charlie','charlie@gmail.com','1234',01478965,6),('Thomas','thomas@gmail.com','1234',017854123,7),
+('Messi','messi@gmail.com','1234',01472541,8);
